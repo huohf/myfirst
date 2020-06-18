@@ -1,0 +1,11 @@
+<?php
+
+class HelloWorld
+{
+    public function show() {
+
+        print("Hello World!\n");
+        print("Hello PHP!\n");
+
+    }
+}
